@@ -1,0 +1,7 @@
+.dotnet-home/
+.appdata/
+.nuget/
+release/
+**/bin/
+**/obj/
+*.user
